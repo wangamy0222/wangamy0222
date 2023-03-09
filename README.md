@@ -13,7 +13,7 @@ I enjoy watching movies and listening music! 🍿♫
 
 
 ### 📓 Blog 📓
-<a href="[https://waiting-submarine-689.notion.site/f0680e9bd6924beb98f8ae005fdf27b0]" target="_blank"><img src="https://img.shields.io/badge/Notion BLog-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://waiting-submarine-689.notion.site/f0680e9bd6924beb98f8ae005fdf27b0" target="_blank"><img src="https://img.shields.io/badge/Notion BLog-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 <br />
 
